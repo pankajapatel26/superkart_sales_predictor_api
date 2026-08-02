@@ -40,7 +40,7 @@ def predict_superkart_sales():
         'Store_Size': property_data['Store_Size'],
         'Store_Location_City_Type': property_data['Store_Location_City_Type'],
         'Store_Type': property_data['Store_Type'] ,
-        'Store_Age_Years': property_data['Store_Age_Years'   
+        'Store_Age_Years': property_data['Store_Age_Years'] 
     }
 
 
